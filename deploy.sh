@@ -1,1 +1,1 @@
-i am rich
+deployment is ready
